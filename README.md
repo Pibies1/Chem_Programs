@@ -83,62 +83,35 @@ Important Notes
 
 Quick Program Finder
 
-Core Chemistry Programs
+1) equation balancing → "chem_balance.tns"
+Matrix method, pattern recognition, complex equations
 
-Program | What It Does | Key Features
----------|-------------|--------------
-"chem_stoich.tns" | Stoichiometry & Moles | • Moles ↔ Grams ↔ Volume
-• Limiting Reagent
-• Theoretical/Actual Yield
-• Empirical Formula
-"chem_balance.tns" | Equation Balancing | • Matrix Method
-• Pattern Recognition
-• Step-by-step Solutions
-• Complex Equations
-"chem_solutions.tns" | Solutions & pH | • Molarity, Molality, Mass%
-• pH Calculations
-• Titration Problems
-• Henderson-Hasselbalch
-"chem_gases.tns" | Gas Laws | • Ideal Gas Law
-• Combined Gas Law
-• Gas Constant Guide
-• Pressure/Volume/Temp
+3) stoichiometry & moles → "chem_stoich.tns"
+Moles/grams/volume, limiting reagent, theoretical yield
 
-Advanced Chemistry Programs
+4) pH & solutions → "chem_solutions.tns"
+Molarity, molality, pH calculations, Henderson-Hasselbalch
 
-Program | What It Does | Key Features
----------|-------------|--------------
-"chem_atomic.tns" | Periodic Table | • Element Lookup (118 elements)
-• Atomic Properties
-• Group Properties
-• Bohr Model
-"chem_redox.tns" | Redox Reactions | • Oxidation Numbers
-• Redox Agents
-• Half-Reactions
-• Ionic Equations
-"chem_thermo.tns" | Thermodynamics | • Hess' Law
-• Bond Energies
-• Formation Enthalpies
-• Energy Calculations
-"chem_compounds.tns" | Compound Database | • Name ↔ Formula
-• Compound Lookup
-• Ionic/Covalent Predictor
-• Custom Compounds
+5) gas laws → "chem_gases.tns"
+PV=nRT, combined gas law, unit conversions
 
-Utility Programs
+6) periodic table & atomic structure → "chem_atomic.tns"
+118 elements, electron configuration, periodic trends
+   
+8) redox chemistry → "chem_redox.tns"
+Oxidation numbers, half-reactions, ionic equations
 
-Program | What It Does | Key Features
----------|-------------|--------------
-"chem_convert.tns" | Unit Conversions | • Temperature (°C, K, °F)
-• Pressure (atm, kPa, mmHg)
-• Energy (J, kJ, cal)
-• Volume, Mass, Length
-"chem_lab.tns" | Lab Calculations | • Significant Figures
-• Percent Error
-• Standard Deviation
-• Solution Preparation
+10) thermodynamics & Hess Law → "chem_thermo.tns"
+Bond energies, formation enthalpies, calorimetry
 
+12) compound database → "chem_compounds.tns"
+50+ common compounds, name/formula lookup
+    
+14) unit conversions → "chem_convert.tns"
+Temperature, pressure, energy, volume, mass
 
+16) lab calculations → "chem_lab.tns"
+Significant figures, percent error, standard deviation
 
 Problem-Solving Guide
 
