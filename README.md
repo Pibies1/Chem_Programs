@@ -238,7 +238,6 @@ Getting Started
 
 3) required files
 - "chem_constants.tns" (must be transferred first - note: this is not meant to be run directly, it's support for other files)
-- "chem_core.tns" (if using main hub)
 - "chem_help.tns" (optional - for on-calculator help)
 - Individual programs (as needed)
 
